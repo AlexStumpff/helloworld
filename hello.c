@@ -5,6 +5,8 @@ Date: 201x/xx/xx*/
 
 int main(void) {
 
+  printf("Alex Stumpff\n");
+  printf("Undeclared");
   printf("Kevin Mai\n");
   printf("Software Engineering");
   printf("Maxx Seminario\n", );
