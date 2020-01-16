@@ -3,7 +3,11 @@
 Date: 201x/xx/xx*/
 #include <stdio.h>
 
-printf("Maxx Seminario\n", );
-printf("Electrical Engieering\n", );
+int main(void) {
 
-return 0;}
+  printf("Kevin Mai\n");
+  printf("Software Engineering");
+  printf("Maxx Seminario\n", );
+  printf("Electrical Engineering\n", );
+  return 0;
+}
